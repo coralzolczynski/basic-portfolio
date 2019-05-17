@@ -75,6 +75,7 @@ textarea {
     width: 100%;
 }
 
+/* submit button on contact page  */
 #button {
     width: 10%;
     background-color: #4aaaa5;
@@ -90,6 +91,7 @@ textarea {
     overflow:auto;
 }
 
+/* specs for the banners over the pics on portfolio page  */
 .banner {  
     position: relative;
     font-size: 20px;
@@ -100,6 +102,8 @@ textarea {
     text-align: center;
 }
 
+
+/* the following are all the banner positions over the pics on portfolio page */
 .ab {
     bottom: 440px;  
     left: 251px;  
