@@ -96,11 +96,31 @@ textarea {
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 10px;
-    width: 18%;
+    width: 17.4%;
     text-align: center;
 }
 
 .ab {
     bottom: 440px;  
-    left: 235px;  
+    left: 251px;  
+}
+
+.cd {
+    bottom: 503px;
+    left: 540px;
+}
+
+.ef {
+    bottom: 566px;
+    left: 839px;
+}
+
+.gh {
+    bottom: 330px;
+    left: 540px;
+}
+
+.ij {
+    bottom: 393px;
+    left: 832px;
 }
