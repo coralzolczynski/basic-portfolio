@@ -1,0 +1,106 @@
+.name {
+    background: #4aaaa5;
+    width: 20%;
+    color: #eeeeee;
+    padding: 10px;
+    margin-left: 200px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+nav {
+    position: relative;
+    right: 200px;
+    margin-right:50px;
+    float:right;
+    color: #777777;
+    word-spacing: 15px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.background {
+    background: url("./../images/vintage-leaves.png");
+    height: auto;
+    border-top: #cccccc solid 1px;
+}
+
+#bio {
+    text-align: left;
+    font-size: 30px;
+}
+
+.main {
+    position: relative;
+    left: 200px;
+    background: #ffffff;
+    text-align: left;
+    width: 960px;
+    height: auto;
+    line-height: 150%;
+    padding: 30px;
+    border: #dddddd solid 1px;
+}
+
+
+h2 {
+    color: #4aaaa5;
+}
+
+.footer {
+    background: #666666;
+    color: #eeeeee;
+    width:100%;
+    text-align: center;
+    font-size: 8px;
+    padding: 20px;
+    border-top: #4aaaa5 solid 6px;
+} 
+
+.pic {height:200px;
+    width:200px;
+    float: left;
+    transform: rotate(90deg);
+    padding: 30px 0px 0px 30px;
+}
+
+input {
+    width: 100%;    
+}
+
+textarea {
+    width: 100%;
+}
+
+#button {
+    width: 10%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.img {
+    float:left;
+    padding: 20px;
+}
+ 
+.clearfix {
+    overflow:auto;
+}
+
+.banner {  
+    position: relative;
+    font-size: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    width: 18%;
+    text-align: center;
+}
+
+.ab {
+    bottom: 440px;  
+    left: 235px;  
+}
